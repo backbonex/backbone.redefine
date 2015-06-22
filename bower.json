@@ -1,0 +1,27 @@
+{
+  "name": "backbone.redefine",
+  "version": "0.0.0",
+  "homepage": "https://github.com/backbonex/backbone.redefine",
+  "authors": [
+    "jifeon <balakirev.andrey@gmail.com>",
+    "apsavin <box.for.postman@gmail.com>",
+    "km256 <keyman256@gmail.com>",
+    "heymexa <heymexa@gmail.com>"
+  ],
+  "description": "Convenient method for redefining of Backbone classes",
+  "keywords": [
+    "backbone",
+    "redefine"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "underscore": "1.8.3"
+  }
+}
